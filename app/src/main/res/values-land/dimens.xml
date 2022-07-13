@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="textSize">26sp</dimen>
+    <dimen name="textSizeDel" tools:ignore="MissingDefaultResource">16sp</dimen>
+    <dimen name="margin_bottom">4dp</dimen>
+    <dimen name="margin_start">4dp</dimen>
+    <dimen name="margin_start_indent">24dp</dimen>
+    <dimen name="margin_zero">0dp</dimen>
+    <dimen name="textSize_history">32sp</dimen>
+    <dimen name="textSize_developments">32sp</dimen>
+    <dimen name="textSize_result">36sp</dimen>
+    <dimen name="layout_padding">4dp</dimen>
+    <dimen name="zero">0dp</dimen>
+</resources>
