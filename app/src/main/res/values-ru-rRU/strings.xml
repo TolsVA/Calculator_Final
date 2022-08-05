@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculator_Final</string>
+    <string name="app_name">Калькулятор</string>
     <string name="key_1">1</string>
     <string name="key_2">2</string>
     <string name="key_3">3</string>
@@ -11,8 +12,8 @@
     <string name="key_9">9</string>
     <string name="key_0">0</string>
     <string name="key_dot">,</string>
-    <string name="key_menu">No ActionBar</string>
-    <string name="key_menu2">DarkActionBar</string>
+    <string name="key_menu">Скрыть панель навигации</string>
+    <string name="key_menu2">Панель навигации</string>
     <string name="key_equals">=</string>
     <string name="key_plus">+</string>
     <string name="key_minus">-</string>
@@ -22,12 +23,11 @@
     <string name="key_del">AC</string>
     <string name="key_div">÷</string>
     <string name="key_back">⌫</string>
-    <string name="cal_key_style"><i>Cal key style</i></string>
-    <string name="my_cool_style"><u>My cool style</u></string>
-    <string name="material_light"><b>Material light</b></string>
-    <string name="material_dark"><i><b><u>Material</u></b></i>-<i><u>dark</u></i></string>
-    <string name="clear_history">Clear history</string>
-    <string name="menu_theme">Choice theme</string>
-    <string name="instructions">instructions</string>
-    <string name="instructions_google" translatable="false">https://support.google.com/android/answer/6223877?hI=ru</string>
+    <string name="cal_key_style"><i>\"Светлая тема.\"</i></string>
+    <string name="my_cool_style"><u>"Синяя тема"</u></string>
+    <string name="material_light"><b>Красная тема</b></string>
+    <string name="material_dark"><i><b><u>Тёмная</u></b></i> <i><u>тема</u></i></string>
+    <string name="clear_history">Очистить историю.</string>
+    <string name="menu_theme">Выбор темы</string>
+    <string name="instructions">Инструкция</string>
 </resources>

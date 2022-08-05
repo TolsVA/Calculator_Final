@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/instructions"
+        android:title="@string/instructions"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menu_theme"
+        android:title="@string/menu_theme"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/clear_history"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/clear_history"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>
